@@ -1,0 +1,55 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "09-967-7415",
+  "taxFormId" : "7991735",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0236059",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Rath-Hoeger"
+    },
+    "address" : {
+      "line1" : "52241 Fred Neck",
+      "city" : "Brianville",
+      "region" : "NC",
+      "postalCode" : "75310",
+      "unitType" : "Apt",
+      "unitNumber" : "097"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "may.berge@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-01-4883",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Leif",
+      "middle" : "Hassan",
+      "last" : "Schuster"
+    },
+    "businessName" : {
+      "name1" : "Veum-McCullough"
+    },
+    "address" : {
+      "line1" : "96556 Kieth Throughway",
+      "city" : "Lake Frankbury",
+      "region" : "RI",
+      "postalCode" : "14385",
+      "unitType" : "Apt",
+      "unitNumber" : "882"
+    },
+    "email" : "rusty.zemlak@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "149-49656-1",
+  "grossDistribution" : 200,
+  "earnings" : 300,
+  "basis" : 400,
+  "programTransfer" : true,
+  "terminated" : true,
+  "notBeneficiary" : true
+}

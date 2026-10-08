@@ -1,0 +1,55 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "43-218-7518",
+  "taxFormId" : "8678007",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0236059",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Rath-Hoeger"
+    },
+    "address" : {
+      "line1" : "52241 Fred Neck",
+      "city" : "Brianville",
+      "region" : "NC",
+      "postalCode" : "75310",
+      "unitType" : "Apt",
+      "unitNumber" : "097"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "may.berge@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-26-7617",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Tyron",
+      "middle" : "Nathanial",
+      "last" : "Toy"
+    },
+    "businessName" : {
+      "name1" : "Rau, Grimes and Maggio"
+    },
+    "address" : {
+      "line1" : "16180 Claretha Mountains",
+      "city" : "Lakishamouth",
+      "region" : "MA",
+      "postalCode" : "32633",
+      "unitType" : "Apt",
+      "unitNumber" : "749"
+    },
+    "email" : "landon.bode@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "449-04688-0",
+  "grossDistribution" : 200,
+  "earnings" : 300,
+  "basis" : 400,
+  "programTransfer" : true,
+  "terminated" : true,
+  "notBeneficiary" : true
+}

@@ -1,0 +1,55 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "92-218-0283",
+  "taxFormId" : "8651700",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0236059",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Rath-Hoeger"
+    },
+    "address" : {
+      "line1" : "52241 Fred Neck",
+      "city" : "Brianville",
+      "region" : "NC",
+      "postalCode" : "75310",
+      "unitType" : "Apt",
+      "unitNumber" : "097"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "may.berge@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-21-3612",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Delpha",
+      "middle" : "Humberto",
+      "last" : "Hoeger"
+    },
+    "businessName" : {
+      "name1" : "Franecki-Kozey"
+    },
+    "address" : {
+      "line1" : "981 Loan Mission",
+      "city" : "Pfeffermouth",
+      "region" : "UT",
+      "postalCode" : "60143",
+      "unitType" : "Apt",
+      "unitNumber" : "675"
+    },
+    "email" : "scarlett.bosco@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "216-48397-7",
+  "grossDistribution" : 200,
+  "earnings" : 300,
+  "basis" : 400,
+  "programTransfer" : true,
+  "terminated" : true,
+  "notBeneficiary" : true
+}
